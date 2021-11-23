@@ -1,2 +1,2 @@
-# sustainable-energy-supply
-Project Design of Sustainable Energy Supply
+# Project Design of Sustainable Energy Supply
+
